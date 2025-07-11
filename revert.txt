@@ -1,2 +1,1 @@
-Test Case For git reset
 Test Case For git revert
